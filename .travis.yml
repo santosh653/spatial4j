@@ -6,6 +6,7 @@ script: mvn -Drandomized.multiplier=10 clean verify jacoco:report
 arch:
   - amd64
   - ppc64le
+  
 jdk:
   - oraclejdk8
   - openjdk8
