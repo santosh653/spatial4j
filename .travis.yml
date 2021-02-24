@@ -8,7 +8,6 @@ arch:
   - ppc64le
   
 jdk:
-  - oraclejdk8
   - openjdk8
   - openjdk11
 #TODO  - oraclejdk9
